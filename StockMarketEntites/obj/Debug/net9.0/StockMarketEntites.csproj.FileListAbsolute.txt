@@ -1,0 +1,12 @@
+D:\Project\StockMarketEntites\bin\Debug\net9.0\StockMarketEntites.deps.json
+D:\Project\StockMarketEntites\bin\Debug\net9.0\StockMarketEntites.dll
+D:\Project\StockMarketEntites\bin\Debug\net9.0\StockMarketEntites.pdb
+D:\Project\StockMarketEntites\obj\Debug\net9.0\StockMarketEntites.csproj.AssemblyReference.cache
+D:\Project\StockMarketEntites\obj\Debug\net9.0\StockMarketEntites.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\StockMarketEntites\obj\Debug\net9.0\StockMarketEntites.AssemblyInfoInputs.cache
+D:\Project\StockMarketEntites\obj\Debug\net9.0\StockMarketEntites.AssemblyInfo.cs
+D:\Project\StockMarketEntites\obj\Debug\net9.0\StockMarketEntites.csproj.CoreCompileInputs.cache
+D:\Project\StockMarketEntites\obj\Debug\net9.0\StockMarketEntites.dll
+D:\Project\StockMarketEntites\obj\Debug\net9.0\refint\StockMarketEntites.dll
+D:\Project\StockMarketEntites\obj\Debug\net9.0\StockMarketEntites.pdb
+D:\Project\StockMarketEntites\obj\Debug\net9.0\ref\StockMarketEntites.dll

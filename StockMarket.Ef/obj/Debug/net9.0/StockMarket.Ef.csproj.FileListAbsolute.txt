@@ -1,0 +1,17 @@
+D:\Project\StockMarket.Ef\bin\Debug\net9.0\StockMarket.Ef.deps.json
+D:\Project\StockMarket.Ef\bin\Debug\net9.0\StockMarket.Ef.runtimeconfig.json
+D:\Project\StockMarket.Ef\bin\Debug\net9.0\StockMarket.Ef.dll
+D:\Project\StockMarket.Ef\bin\Debug\net9.0\StockMarket.Ef.pdb
+D:\Project\StockMarket.Ef\bin\Debug\net9.0\StockMarketEntites.dll
+D:\Project\StockMarket.Ef\bin\Debug\net9.0\StockMarketEntites.pdb
+D:\Project\StockMarket.Ef\obj\Debug\net9.0\StockMarket.Ef.csproj.AssemblyReference.cache
+D:\Project\StockMarket.Ef\obj\Debug\net9.0\StockMarket.Ef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\StockMarket.Ef\obj\Debug\net9.0\StockMarket.Ef.AssemblyInfoInputs.cache
+D:\Project\StockMarket.Ef\obj\Debug\net9.0\StockMarket.Ef.AssemblyInfo.cs
+D:\Project\StockMarket.Ef\obj\Debug\net9.0\StockMarket.Ef.csproj.CoreCompileInputs.cache
+D:\Project\StockMarket.Ef\obj\Debug\net9.0\StockMar.776723F3.Up2Date
+D:\Project\StockMarket.Ef\obj\Debug\net9.0\StockMarket.Ef.dll
+D:\Project\StockMarket.Ef\obj\Debug\net9.0\refint\StockMarket.Ef.dll
+D:\Project\StockMarket.Ef\obj\Debug\net9.0\StockMarket.Ef.pdb
+D:\Project\StockMarket.Ef\obj\Debug\net9.0\StockMarket.Ef.genruntimeconfig.cache
+D:\Project\StockMarket.Ef\obj\Debug\net9.0\ref\StockMarket.Ef.dll
